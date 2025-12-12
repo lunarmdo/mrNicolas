@@ -1,2 +1,3 @@
 # mrNicolas
-Un petit depôt pour les premières NSI
+Un petit depôt pour les premières NSI.<br>
+Des trucs sur `html`, `css`, `javascript`...
