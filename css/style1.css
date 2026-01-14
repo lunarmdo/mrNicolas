@@ -6,4 +6,42 @@ body{
 p {
     background-color: rgb(221, 141, 141);
     color: white;
+    /* width: 200px; */
+    width: 50%
 }
+
+img {
+    height: 200px;
+    border-style: solid;
+    border-color: brown;
+    border-radius: 50%;
+    /* padding: 20px; */
+    /* padding-top: 20px;
+    padding-bottom: 20px; */
+    margin-left: 40%;
+}
+
+h1{
+    border-bottom: solid;
+}
+
+div{
+    border: solid;
+    width: 33%;
+    margin-left: 33%;
+}
+
+.premier{
+    background-color: rgb(75, 75, 168);
+    width: 100%;
+    text-align: justify;
+}
+
+#deux{
+    background-color: crimson;
+    width: 100%;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/*Beaucoup de sites utilisent des fontes externes*/
