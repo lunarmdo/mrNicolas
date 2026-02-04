@@ -144,3 +144,6 @@ Le symbole `>` ou `>>` permet de *rediriger* la sortie d'une commande vers un fi
 Les fichiers python `.py` ne sont pas des fichiers exécutables dans le shell. Il faut un programme pour les exécuter : `python ./monFichier.py`
 
 ## Ex 1
+[https://codex.forge.apps.education.fr/exercices/course_cycliste/](https://codex.forge.apps.education.fr/exercices/course_cycliste/)
+
+## Ex 2y

@@ -1,0 +1,9 @@
+de nombre_coureurs(lst):
+
+
+
+
+
+# test
+classement = ["Nadia", "Franck", "Thomas", "Elizabeth", "Laure"]
+assert nombre_coureurs(classement) == 5
