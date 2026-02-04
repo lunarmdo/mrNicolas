@@ -19,7 +19,7 @@
 - Créer les dossiers suivants :
     - `/workspaces/web2026/DA`
     - `/workspaces/web2026/DA/DB`
-    - /workspaces/web2026/DA/DC`
+    - `/workspaces/web2026/DA/DC`
 - Utiliser la commande `tree` pour contrôler.
 -  Se déplacer dans le dossier `/workspaces/web2026/DA/DC` et vérifier que vous êtes bien arrivé !
 -  Utiliser la commande `cd ../../` et commenter.
@@ -48,3 +48,14 @@
 - cd ../ ou cd /workspaces/web2026
 - l'option -F ajouter un slash après les dossiers
 - cp ./Dossier1/fic1.txt ./Dossier1/fic2.txt  puis cp ./Dossier1/fic1.txt ./fic3.txt
+- mv ./Dossier1/fic1.txt ./Dossier1/fichierNSI ( Les extensions de fichiers ne sont pas obligatoires )
+- tree
+- cd ../ && pwd ( on enchaîne les commandes ) : On est remonté d'un range dans l'arbolescencve
+- rmdir ne supprime que des dossiers vides
+- rm -ir pose une question avant chaque commande
+- mkdir ./DA ./DA/DB ./DA/DC tree
+- cd ./DA/DC && pwd
+- cd ../../ pour remonter de deux rangs
+- On peut éditer le fichier avec nano pour écrire le fichier avec nano pour écrire les lignes ou utiliser echo avec l'option -e
+   echo -e "J'aime la NSI
+> J'aime la NSI" > ./fic3.txt
