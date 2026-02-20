@@ -58,4 +58,4 @@
 - cd ../../ pour remonter de deux rangs
 - On peut éditer le fichier avec nano pour écrire le fichier avec nano pour écrire les lignes ou utiliser echo avec l'option -e
    echo -e "J'aime la NSI
-> J'aime la NSI" > ./fic3.txt
+> J'aime la NSI" > ./fic3.t
