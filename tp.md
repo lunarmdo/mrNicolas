@@ -12,4 +12,9 @@ mv ./fi* ./dosA/dosB
 cp ./dosA/dosB/fi* ./dosA/dosC
 cp ./dosA/dosB/fi* ./dosD
 cp ./dosA/dosB/fi* ./dosA 
-7.  cd mrNicolas/
+7.  echo "bonjour tout le monde" >> dosA/fic1.txt
+ls -l dosA/fic1.txt
+8. 
+9. mv dosC/exoos.txt dosC/exos.txt
+10. cd ..
+./supprimer.sh
